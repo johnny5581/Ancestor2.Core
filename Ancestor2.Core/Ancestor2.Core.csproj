@@ -1,0 +1,19 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFrameworks>net40;net45;netcoreapp3.1;net6</TargetFrameworks>
+    <ImplicitUsings>disable</ImplicitUsings>
+    <Nullable>disable</Nullable>
+		<RootNamespace>Ancestor</RootNamespace>
+		<Copyright>Copyright © AncestorTeam 2015-2024</Copyright>
+		<GeneratePackageOnBuild>false</GeneratePackageOnBuild>
+  </PropertyGroup>
+	<PropertyGroup>
+		<PackageId>Ancestor2.Core</PackageId>
+		<Version>1.0.0</Version>
+		<Authors>AncestorTeam</Authors>
+		<Company>AncestorTeam</Company>
+		<PackageTags>Ancestor</PackageTags>
+		<Description>This package is a core package for Ancestor2 lib series</Description>
+	</PropertyGroup>
+</Project>
